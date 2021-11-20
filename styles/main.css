@@ -1,0 +1,86 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.login-form {
+  margin-top: 24px;
+}
+
+.form-group-email, .form-group-password {
+  font-weight: 500;
+}
+
+.form-control {
+  background-color: #F8FAFC;
+  border: none;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.form-group-password {
+  margin-top: 24px;
+}
+
+.form-check-remember, .forgot-password {
+  font-size: 14px;
+  color: #393E46;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: #F99824;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  font-weight: 500;
+}
+
+hr {
+  border: none;
+  height: 1.5px;
+  background-color: #b1b1b1;
+}
+
+p {
+  color: #b1b1b1;
+}
+
+.separator .row-hr {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #b1b1b1;
+}
+
+.col-google {
+  margin-right: 8px;
+}
+
+.col-facebook {
+  margin-left: 8px;
+}
+
+.oauth-login .col {
+  padding: 0px;
+}
+
+.btn-google, .btn-facebook {
+  background-color: #F8FAFC;
+  padding: 12px;
+}
+
+.row-sign-up {
+  margin-top: 16px;
+}
+
+.sign-up-link {
+  color: #393E46;
+}
+/*# sourceMappingURL=main.css.map */
